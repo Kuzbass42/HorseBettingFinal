@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HBtest.iml" filepath="$PROJECT_DIR$/.idea/modules/HBtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HBtest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HBtest_main.iml" group="HBtest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HBtest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HBtest_test.iml" group="HBtest" />
+    </modules>
+  </component>
+</project>
